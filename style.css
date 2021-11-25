@@ -1,0 +1,70 @@
+body {
+  font-size: 15pt;
+  background-color: black;
+  margin: 0;
+}
+
+h1 {
+  background-color: orangered;
+  margin: 0;
+  
+}
+
+h2 {
+  color: dodgerblue;
+}
+
+h3 {
+  text-decoration: none;
+  color: white;
+}
+
+h4 {
+  text-decoration: none;
+  color: darkgreen;
+  text-align: left;
+}
+
+header h1 {
+  color: white;
+  padding: 10px 50px 
+}
+
+header h1 a {
+  color: white;
+}
+
+main {
+  max-width: 960px;
+  padding: 0 auto;
+}
+
+p {
+  text-decoration: none;
+  color: white;
+  font-size: 1em;
+  line-height: 1.8em;
+  letter-spacing: 0.05em;
+  max-width: 500px;
+  padding: 30px;
+  border: 3px solid orangered; 
+  margin: 0 auto;
+}
+
+p span {
+  color: dodgerblue;
+}
+
+footer {
+  background-color: #3A3A3A;
+}
+
+footer p {
+  color: white;
+  margin: 0;
+  border: none;
+  padding: 8px;
+  text-align: center;
+}
+
+
